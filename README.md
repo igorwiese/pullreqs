@@ -154,6 +154,7 @@ do
   Rscript R/one_of_the_scripts.R --help
 ```
 
+
 The following scripts can be run with the procedure described above:
 
 * [R/dataset-stats.R](https://github.com/gousiosg/pullreqs/blob/master/R/dataset-stats.R) Various statistics and plots that require access to the GHTorrent MySQL database. Use command line arguments to configure the MySQL connection.
@@ -166,4 +167,3 @@ The following scripts can be run with the procedure described above:
 pull request merge time classifiers.
 
 * [R/var-importance.R](https://github.com/gousiosg/pullreqs/blob/master/R/var-importance.R) Generate the variable importance plots for choosing important features
-
