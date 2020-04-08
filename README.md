@@ -12,7 +12,9 @@ Make sure that Ruby 1.9.3 is installed on your machine. You can
 try [RVM](https://rvm.io/), if it is not. Then, it should suffice
 to do:
 
-<pre>
+Teste
+
+<pre> 
 gem install bundler
 bundle install
 gem install mysql2
